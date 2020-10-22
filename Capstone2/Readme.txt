@@ -1,0 +1,13 @@
+Capstone2 Project Ideas
+
+
+1.  Display how percentage of a county confirmed with with Covid19 affects the number of new cases found.
+
+    Data Source: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
+    Courtesy of: https://data.world/cyamane123/lead-gen-analysis
+
+
+2.  Predict who will win an NFL bet
+
+    Data Source:  (Kaggle) https://datasetsearch.research.google.com/search?query=NFL%20scores%20and%20betting%20data&docid=42gvYWceSRPsddH5AAAAAA%3D%3D
+
