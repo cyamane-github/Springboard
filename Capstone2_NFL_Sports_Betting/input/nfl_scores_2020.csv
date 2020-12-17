@@ -1,0 +1,209 @@
+schedule_date,schedule_season,schedule_week,schedule_playoff,team_home,score_home,score_away,team_away,team_favorite_id,spread_favorite,over_under_line
+2020-12-14,2020,14,FALSE,Cleveland,42,47,Baltimore,BAL,-3.0,46.0
+2020-12-13,2020,14,FALSE,Buffalo,26,15,Pittsburgh,BUF,-2.0,48.5
+2020-12-13,2020,14,FALSE,San Francisco,15,23,Washington,SF,-3.0,43.5
+2020-12-13,2020,14,FALSE,LA Chargers,20,17,Atlanta,LAC,-1.0,49.5
+2020-12-13,2020,14,FALSE,Philadelphia,24,21,New Orleans,NO,-7.5,43.0
+2020-12-13,2020,14,FALSE,Detroit,24,31,Green Bay,GB,-9.5,55.5
+2020-12-13,2020,14,FALSE,Seattle,40,3,NY Jets,SEA,-16.5,50.5
+2020-12-13,2020,14,FALSE,Las Vegas,27,44,Indianapolis,IND,-2.5,52.0
+2020-12-13,2020,14,FALSE,Miami,27,33,Kansas City,KC,-7.5,52.0
+2020-12-13,2020,14,FALSE,Jacksonville,10,31,Tennessee,TEN,-7.5,52.5
+2020-12-13,2020,14,FALSE,Carolina,27,32,Denver,CAR,-4.0,46.5
+2020-12-13,2020,14,FALSE,NY Giants,7,26,Arizona,ARI,-3.0,47.5
+2020-12-13,2020,14,FALSE,Chicago,36,7,Houston,HOU,-1.0,46.5
+2020-12-13,2020,14,FALSE,Tampa Bay,26,14,Minnesota,TB,-7.0,52.0
+2020-12-13,2020,14,FALSE,Cincinnati,7,30,Dallas,DAL,-3.0,44.0
+2020-12-10,2020,14,FALSE,LA Rams,24,3,New England,LAR,-5.0,43.5
+2020-12-08,2020,13,FALSE,Baltimore,34,17,Dallas,BAL,-8.5,46.0
+2020-12-07,2020,13,FALSE,San Francisco,24,34,Buffalo,SF,-1.5,48.0
+2020-12-07,2020,13,FALSE,Pittsburgh,17,23,Washington,PIT,-5.5,44.0
+2020-12-06,2020,13,FALSE,Kansas City,22,16,Denver,KC,-13.0,51.5
+2020-12-06,2020,13,FALSE,Green Bay,30,16,Philadelphia,GB,-8.0,50.0
+2020-12-06,2020,13,FALSE,LA Chargers,0,45,New England,LAC,-2.0,46.5
+2020-12-06,2020,13,FALSE,Arizona,28,38,LA Rams,LAR,-2.5,49.0
+2020-12-06,2020,13,FALSE,Seattle,12,17,NY Giants,SEA,-11.0,48.5
+2020-12-06,2020,13,FALSE,Miami,19,7,Cincinnati,MIA,-10.5,43.0
+2020-12-06,2020,13,FALSE,Minnesota,27,24,Jacksonville,MIN,-10.5,51.5
+2020-12-06,2020,13,FALSE,Atlanta,16,21,New Orleans,NO,-2.5,46.5
+2020-12-06,2020,13,FALSE,Tennessee,35,41,Cleveland,TEN,-4.0,54.0
+2020-12-06,2020,13,FALSE,Houston,20,26,Indianapolis,IND,-3.5,50.0
+2020-12-06,2020,13,FALSE,NY Jets,28,31,Las Vegas,LVR,-7.5,48.5
+2020-12-06,2020,13,FALSE,Chicago,30,34,Detroit,CHI,-3.0,44.0
+2020-12-02,2020,12,FALSE,Pittsburgh,19,14,Baltimore,PIT,-10.5,41.5
+2020-11-30,2020,12,FALSE,Philadelphia,17,23,Seattle,SEA,-6.5,50.0
+2020-11-29,2020,12,FALSE,Green Bay,41,25,Chicago,GB,-7.5,44.0
+2020-11-29,2020,12,FALSE,Tampa Bay,24,27,Kansas City,KC,-3.5,56.0
+2020-11-29,2020,12,FALSE,LA Rams,20,23,San Francisco,LAR,-5.0,45.0
+2020-11-29,2020,12,FALSE,Denver,3,31,New Orleans,NO,-17.0,36.5
+2020-11-29,2020,12,FALSE,New England,20,17,Arizona,ARI,-1.0,51.0
+2020-11-29,2020,12,FALSE,Indianapolis,26,45,Tennessee,IND,-3.0,51.5
+2020-11-29,2020,12,FALSE,NY Jets,3,20,Miami,MIA,-7.5,46.5
+2020-11-29,2020,12,FALSE,Jacksonville,25,27,Cleveland,CLE,-7.5,48.0
+2020-11-29,2020,12,FALSE,Minnesota,28,27,Carolina,MIN,-3.0,50.0
+2020-11-29,2020,12,FALSE,Buffalo,27,17,LA Chargers,BUF,-4.5,51.5
+2020-11-29,2020,12,FALSE,Cincinnati,17,19,NY Giants,NYG,-6.5,45.0
+2020-11-29,2020,12,FALSE,Atlanta,43,6,Las Vegas,LVR,-3.5,53.0
+2020-11-26,2020,12,FALSE,Dallas,16,41,Washington,DAL,-2.5,46.0
+2020-11-26,2020,12,FALSE,Detroit,25,41,Houston,HOU,-3.0,52.5
+2020-11-23,2020,11,FALSE,Tampa Bay,24,27,LA Rams,TB,-4.0,47.0
+2020-11-22,2020,11,FALSE,Las Vegas,31,35,Kansas City,KC,-7.5,56.5
+2020-11-22,2020,11,FALSE,Minnesota,28,31,Dallas,MIN,-7.0,49.5
+2020-11-22,2020,11,FALSE,Indianapolis,34,31,Green Bay,IND,-1.5,52.5
+2020-11-22,2020,11,FALSE,LA Chargers,34,28,NY Jets,LAC,-10.0,47.0
+2020-11-22,2020,11,FALSE,Denver,20,13,Miami,MIA,-4.0,46.0
+2020-11-22,2020,11,FALSE,Baltimore,24,30,Tennessee,BAL,-6.0,50.5
+2020-11-22,2020,11,FALSE,Houston,27,20,New England,NE,-2.5,49.5
+2020-11-22,2020,11,FALSE,New Orleans,24,9,Atlanta,NO,-3.5,49.5
+2020-11-22,2020,11,FALSE,Washington,20,9,Cincinnati,WFT,-2.0,48.0
+2020-11-22,2020,11,FALSE,Jacksonville,3,27,Pittsburgh,PIT,-11.0,47.5
+2020-11-22,2020,11,FALSE,Cleveland,22,17,Philadelphia,CLE,-2.5,45.5
+2020-11-22,2020,11,FALSE,Carolina,20,0,Detroit,DET,-3.0,47.0
+2020-11-19,2020,11,FALSE,Seattle,28,21,Arizona,SEA,-3.0,56.5
+2020-11-16,2020,10,FALSE,Chicago,13,19,Minnesota,MIN,-3.5,44.5
+2020-11-15,2020,10,FALSE,New England,23,17,Baltimore,BAL,-7.0,44.0
+2020-11-15,2020,10,FALSE,LA Rams,23,16,Seattle,LAR,-3.0,55.0
+2020-11-15,2020,10,FALSE,Pittsburgh,36,10,Cincinnati,PIT,-6.5,46.0
+2020-11-15,2020,10,FALSE,New Orleans,27,13,San Francisco,NO,-9.5,50.0
+2020-11-15,2020,10,FALSE,Las Vegas,37,12,Denver,LVR,-3.5,50.0
+2020-11-15,2020,10,FALSE,Miami,29,21,LA Chargers,MIA,-1.5,49.0
+2020-11-15,2020,10,FALSE,Arizona,32,30,Buffalo,ARI,-3.0,56.0
+2020-11-15,2020,10,FALSE,Cleveland,10,7,Houston,CLE,-4.5,46.5
+2020-11-15,2020,10,FALSE,NY Giants,27,17,Philadelphia,PHI,-5.0,46.5
+2020-11-15,2020,10,FALSE,Green Bay,24,20,Jacksonville,GB,-13.5,47.5
+2020-11-15,2020,10,FALSE,Carolina,23,46,Tampa Bay,TB,-6.0,49.5
+2020-11-15,2020,10,FALSE,Detroit,30,27,Washington,DET,-2.5,45.5
+2020-11-12,2020,10,FALSE,Tennessee,17,34,Indianapolis,IND,-1.0,49.0
+2020-11-09,2020,9 ,FALSE,NY Jets,27,30,New England,NE,-9.0,42.0
+2020-11-08,2020,9 ,FALSE,Tampa Bay,3,38,New Orleans,TB,-3.0,51.0
+2020-11-08,2020,9 ,FALSE,Dallas,19,24,Pittsburgh,PIT,-14.0,44.0
+2020-11-08,2020,9 ,FALSE,Arizona,31,34,Miami,ARI,-6.0,49.0
+2020-11-08,2020,9 ,FALSE,LA Chargers,26,31,Las Vegas,LVR,-1.0,52.5
+2020-11-08,2020,9 ,FALSE,Tennessee,24,17,Chicago,TEN,-6.5,46.5
+2020-11-08,2020,9 ,FALSE,Buffalo,44,34,Seattle,SEA,-3.0,55.5
+2020-11-08,2020,9 ,FALSE,Minnesota,34,20,Detroit,MIN,-3.0,51.5
+2020-11-08,2020,9 ,FALSE,Indianapolis,10,24,Baltimore,IND,-1.0,47.5
+2020-11-08,2020,9 ,FALSE,Kansas City,33,31,Carolina,KC,-10.0,51.5
+2020-11-08,2020,9 ,FALSE,Washington,20,23,NY Giants,WFT,-3.0,43.5
+2020-11-08,2020,9 ,FALSE,Jacksonville,25,27,Houston,HOU,-7.0,49.0
+2020-11-08,2020,9 ,FALSE,Atlanta,34,27,Denver,ZZZ,-4.5,50.5
+2020-11-05,2020,9 ,FALSE,San Francisco,17,34,Green Bay,GB,-6.0,48.5
+2020-11-02,2020,8 ,FALSE,NY Giants,23,25,Tampa Bay,TB,-13.0,47.0
+2020-11-01,2020,8 ,FALSE,Philadelphia,23,9,Dallas,PHI,-10.0,43.0
+2020-11-01,2020,8 ,FALSE,Seattle,37,27,San Francisco,SEA,-1.0,54.5
+2020-11-01,2020,8 ,FALSE,Chicago,23,26,New Orleans,NO,-5.5,41.0
+2020-11-01,2020,8 ,FALSE,Denver,31,30,LA Chargers,LAC,-3.0,44.5
+2020-11-01,2020,8 ,FALSE,Miami,28,17,LA Rams,LAR,-3.5,46.5
+2020-11-01,2020,8 ,FALSE,Cincinnati,31,20,Tennessee,TEN,-7.5,49.5
+2020-11-01,2020,8 ,FALSE,Green Bay,22,28,Minnesota,GB,-5.5,47.0
+2020-11-01,2020,8 ,FALSE,Buffalo,24,21,New England,BUF,-4.0,41.0
+2020-11-01,2020,8 ,FALSE,Detroit,21,41,Indianapolis,IND,-3.5,49.0
+2020-11-01,2020,8 ,FALSE,Baltimore,24,28,Pittsburgh,BAL,-4.0,44.0
+2020-11-01,2020,8 ,FALSE,Cleveland,6,16,Las Vegas,CLE,-1.0,48.0
+2020-11-01,2020,8 ,FALSE,Kansas City,35,9,NY Jets,KC,-20.0,49.0
+2020-10-29,2020,8 ,FALSE,Carolina,17,25,Atlanta,CAR,-1.5,52.0
+2020-10-26,2020,7 ,FALSE,LA Rams,24,10,Chicago,LAR,-6.5,44.0
+2020-10-25,2020,7 ,FALSE,Arizona,37,34,Seattle,SEA,-3.5,55.5
+2020-10-25,2020,7 ,FALSE,LA Chargers,39,29,Jacksonville,LAC,-8.0,48.0
+2020-10-25,2020,7 ,FALSE,New England,6,33,San Francisco,NE,-3.0,44.0
+2020-10-25,2020,7 ,FALSE,Denver,16,43,Kansas City,KC,-7.0,46.0
+2020-10-25,2020,7 ,FALSE,Las Vegas,20,45,Tampa Bay,TB,-3.5,51.5
+2020-10-25,2020,7 ,FALSE,Cincinnati,34,37,Cleveland,CLE,-4.5,50.0
+2020-10-25,2020,7 ,FALSE,NY Jets,10,18,Buffalo,BUF,-9.5,47.0
+2020-10-25,2020,7 ,FALSE,New Orleans,27,24,Carolina,NO,-7.0,49.5
+2020-10-25,2020,7 ,FALSE,Houston,20,35,Green Bay,GB,-2.5,55.5
+2020-10-25,2020,7 ,FALSE,Atlanta,22,23,Detroit,ZZZ,-1.0,54.0
+2020-10-25,2020,7 ,FALSE,Washington,25,3,Dallas,DAL,-1.0,44.5
+2020-10-25,2020,7 ,FALSE,Tennessee,24,27,Pittsburgh,TEN,-1.0,51.0
+2020-10-22,2020,7 ,FALSE,Philadelphia,22,21,NY Giants,PHI,-5.0,44.5
+2020-10-19,2020,6 ,FALSE,Dallas,10,38,Arizona,DAL,-1.0,55.5
+2020-10-19,2020,6 ,FALSE,Buffalo,17,26,Kansas City,KC,-5.5,55.0
+2020-10-18,2020,6 ,FALSE,San Francisco,24,16,LA Rams,LAR,-2.0,51.0
+2020-10-18,2020,6 ,FALSE,Tampa Bay,38,10,Green Bay,GB,-3.0,55.0
+2020-10-18,2020,6 ,FALSE,Miami,24,0,NY Jets,MIA,-10.0,46.0
+2020-10-18,2020,6 ,FALSE,Minnesota,23,40,Atlanta,MIN,-3.5,53.5
+2020-10-18,2020,6 ,FALSE,New England,12,18,Denver,NE,-7.0,43.5
+2020-10-18,2020,6 ,FALSE,Carolina,16,23,Chicago,CAR,-2.0,45.0
+2020-10-18,2020,6 ,FALSE,NY Giants,20,19,Washington,NYG,-2.0,42.5
+2020-10-18,2020,6 ,FALSE,Philadelphia,28,30,Baltimore,BAL,-10.5,46.5
+2020-10-18,2020,6 ,FALSE,Jacksonville,16,34,Detroit,DET,-3.0,52.5
+2020-10-18,2020,6 ,FALSE,Tennessee,42,36,Houston,TEN,-4.0,52.0
+2020-10-18,2020,6 ,FALSE,Pittsburgh,38,7,Cleveland,PIT,-3.0,50.0
+2020-10-18,2020,6 ,FALSE,Indianapolis,31,27,Cincinnati,IND,-7.5,46.0
+2020-10-13,2020,5 ,FALSE,Tennessee,42,16,Buffalo,BUF,-3.0,52.0
+2020-10-12,2020,5 ,FALSE,New Orleans,30,27,LA Chargers,NO,-7.0,49.5
+2020-10-11,2020,5 ,FALSE,Seattle,27,26,Minnesota,SEA,-6.5,54.0
+2020-10-11,2020,5 ,FALSE,Cleveland,32,23,Indianapolis,CLE,-1.0,48.5
+2020-10-11,2020,5 ,FALSE,Dallas,37,34,NY Giants,DAL,-7.5,52.0
+2020-10-11,2020,5 ,FALSE,San Francisco,17,43,Miami,SF,-8.5,50.5
+2020-10-11,2020,5 ,FALSE,Pittsburgh,38,29,Philadelphia,PIT,-7.5,44.0
+2020-10-11,2020,5 ,FALSE,Washington,10,30,LA Rams,LAR,-7.0,45.0
+2020-10-11,2020,5 ,FALSE,Houston,30,14,Jacksonville,HOU,-6.5,55.0
+2020-10-11,2020,5 ,FALSE,Atlanta,16,23,Carolina,ZZZ,-2.5,53.5
+2020-10-11,2020,5 ,FALSE,NY Jets,10,30,Arizona,ARI,-7.0,48.5
+2020-10-11,2020,5 ,FALSE,Baltimore,27,3,Cincinnati,BAL,-12.5,49.0
+2020-10-11,2020,5 ,FALSE,Kansas City,32,40,Las Vegas,KC,-11.0,54.5
+2020-10-08,2020,5 ,FALSE,Chicago,20,19,Tampa Bay,TB,-3.5,44.0
+2020-10-05,2020,4 ,FALSE,Green Bay,30,16,Atlanta,GB,-5.0,56.5
+2020-10-05,2020,4 ,FALSE,Kansas City,26,10,New England,KC,-11.0,48.5
+2020-10-04,2020,4 ,FALSE,San Francisco,20,25,Philadelphia,SF,-8.5,45.5
+2020-10-04,2020,4 ,FALSE,Chicago,11,19,Indianapolis,IND,-3.5,43.5
+2020-10-04,2020,4 ,FALSE,Las Vegas,23,30,Buffalo,BUF,-3.0,53.0
+2020-10-04,2020,4 ,FALSE,LA Rams,17,9,NY Giants,LAR,-13.5,50.0
+2020-10-04,2020,4 ,FALSE,Houston,23,31,Minnesota,HOU,-3.5,52.5
+2020-10-04,2020,4 ,FALSE,Carolina,31,21,Arizona,ARI,-3.0,52.5
+2020-10-04,2020,4 ,FALSE,Washington,17,31,Baltimore,BAL,-14.5,45.0
+2020-10-04,2020,4 ,FALSE,Miami,23,31,Seattle,SEA,-4.5,55.0
+2020-10-04,2020,4 ,FALSE,Tampa Bay,38,31,LA Chargers,TB,-7.5,42.5
+2020-10-04,2020,4 ,FALSE,Detroit,29,35,New Orleans,NO,-3.0,51.5
+2020-10-04,2020,4 ,FALSE,Cincinnati,33,25,Jacksonville,CIN,-1.0,50.0
+2020-10-04,2020,4 ,FALSE,Dallas,38,49,Cleveland,DAL,-3.5,56.5
+2020-10-01,2020,4 ,FALSE,NY Jets,28,37,Denver,NYJ,-1.0,41.0
+2020-09-28,2020,3 ,FALSE,Baltimore,20,34,Kansas City,BAL,-3.5,55.0
+2020-09-27,2020,3 ,FALSE,New Orleans,30,37,Green Bay,NO,-3.5,52.0
+2020-09-27,2020,3 ,FALSE,Seattle,38,31,Dallas,SEA,-5.5,58.0
+2020-09-27,2020,3 ,FALSE,Denver,10,28,Tampa Bay,TB,-6.0,42.5
+2020-09-27,2020,3 ,FALSE,Arizona,23,26,Detroit,ARI,-4.5,55.5
+2020-09-27,2020,3 ,FALSE,Indianapolis,36,7,NY Jets,IND,-12.5,44.0
+2020-09-27,2020,3 ,FALSE,LA Chargers,16,21,Carolina,LAC,-6.0,43.5
+2020-09-27,2020,3 ,FALSE,Philadelphia,23,23,Cincinnati,PHI,-5.5,46.5
+2020-09-27,2020,3 ,FALSE,Atlanta,26,30,Chicago,ZZZ,-2.5,46.0
+2020-09-27,2020,3 ,FALSE,Cleveland,34,20,Washington,CLE,-7.5,45.0
+2020-09-27,2020,3 ,FALSE,Buffalo,35,32,LA Rams,BUF,-1.5,46.5
+2020-09-27,2020,3 ,FALSE,Minnesota,30,31,Tennessee,TEN,-3.0,49.5
+2020-09-27,2020,3 ,FALSE,Pittsburgh,28,21,Houston,PIT,-3.5,46.5
+2020-09-27,2020,3 ,FALSE,NY Giants,9,36,San Francisco,SF,-3.0,44.0
+2020-09-27,2020,3 ,FALSE,New England,36,20,Las Vegas,NE,-7.0,47.0
+2020-09-24,2020,3 ,FALSE,Jacksonville,13,31,Miami,JAX,-2.5,49.5
+2020-09-21,2020,2 ,FALSE,Las Vegas,34,24,New Orleans,NO,-4.0,47.5
+2020-09-20,2020,2 ,FALSE,Seattle,35,30,New England,SEA,-4.0,45.0
+2020-09-20,2020,2 ,FALSE,Houston,16,33,Baltimore,BAL,-7.5,49.5
+2020-09-20,2020,2 ,FALSE,LA Chargers,20,23,Kansas City,KC,-8.5,47.0
+2020-09-20,2020,2 ,FALSE,Arizona,30,15,Washington,ARI,-7.5,46.5
+2020-09-20,2020,2 ,FALSE,NY Jets,13,31,San Francisco,SF,-7.0,41.5
+2020-09-20,2020,2 ,FALSE,Tennessee,33,30,Jacksonville,TEN,-7.0,44.5
+2020-09-20,2020,2 ,FALSE,Green Bay,42,21,Detroit,GB,-7.0,51.0
+2020-09-20,2020,2 ,FALSE,Pittsburgh,26,21,Denver,PIT,-6.0,41.0
+2020-09-20,2020,2 ,FALSE,Tampa Bay,31,17,Carolina,TB,-7.5,47.0
+2020-09-20,2020,2 ,FALSE,Philadelphia,19,37,LA Rams,PHI,-2.0,46.0
+2020-09-20,2020,2 ,FALSE,Dallas,40,39,Atlanta,DAL,-3.0,53.0
+2020-09-20,2020,2 ,FALSE,Indianapolis,28,11,Minnesota,IND,-3.5,49.0
+2020-09-20,2020,2 ,FALSE,Miami,28,31,Buffalo,BUF,-5.5,42.5
+2020-09-20,2020,2 ,FALSE,Chicago,17,13,NY Giants,CHI,-4.5,42.5
+2020-09-17,2020,2 ,FALSE,Cleveland,35,30,Cincinnati,CLE,-6.0,44.5
+2020-09-14,2020,1 ,FALSE,Denver,14,16,Tennessee,TEN,-3.5,41.5
+2020-09-14,2020,1 ,FALSE,NY Giants,16,26,Pittsburgh,PIT,-6.0,44.0
+2020-09-13,2020,1 ,FALSE,LA Rams,20,17,Dallas,LAR,-1.0,52.0
+2020-09-13,2020,1 ,FALSE,San Francisco,20,24,Arizona,SF,-7.0,48.5
+2020-09-13,2020,1 ,FALSE,New Orleans,34,23,Tampa Bay,NO,-4.0,48.5
+2020-09-13,2020,1 ,FALSE,Cincinnati,13,16,LA Chargers,LAC,-2.5,41.5
+2020-09-13,2020,1 ,FALSE,Atlanta,25,38,Seattle,ZZZ,-1.0,49.5
+2020-09-13,2020,1 ,FALSE,Buffalo,27,17,NY Jets,BUF,-6.5,39.5
+2020-09-13,2020,1 ,FALSE,New England,21,11,Miami,NE,-7.5,41.5
+2020-09-13,2020,1 ,FALSE,Carolina,30,34,Las Vegas,LVR,-3.0,48.0
+2020-09-13,2020,1 ,FALSE,Jacksonville,27,20,Indianapolis,IND,-7.0,44.0
+2020-09-13,2020,1 ,FALSE,Minnesota,34,43,Green Bay,MIN,-1.0,44.0
+2020-09-13,2020,1 ,FALSE,Washington,27,17,Philadelphia,PHI,-5.5,41.5
+2020-09-13,2020,1 ,FALSE,Baltimore,38,6,Cleveland,BAL,-7.0,47.0
+2020-09-13,2020,1 ,FALSE,Detroit,23,27,Chicago,DET,-2.5,42.5
+2020-09-10,2020,1 ,FALSE,Kansas City,34,20,Houston,KC,-9.5,53.5
